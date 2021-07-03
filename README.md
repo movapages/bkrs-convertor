@@ -1,4 +1,4 @@
-### bkrs-convertor (Mova Club project)
+### bkrs-convertor ([Mova Club project](https://mova.club/))
 
 [BKRS Info](https://bkrs.info/) _dsl-to-csv file converter_.
 
