@@ -1,0 +1,58 @@
+{
+  "author": "Ganshina Open Source Project",
+  "description": "Ganshina Open Source Project (GOSP) BKRS.info dsl-to-csv file converter",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "jest": "^26.6.3",
+    "jest-esm-transformer": "^1.0.0",
+    "source-map-support": "^0.5.19"
+  },
+  "homepage": "https://www.ganshina.club/gosp-bkrs",
+  "keywords": [
+    "GOSP",
+    "bkrs.info",
+    "dsl",
+    "dictionary",
+    "chinese",
+    "russian",
+    "csv",
+    "text",
+    "parser",
+    "encoding"
+  ],
+  "license": "MPL",
+  "main": "index.js",
+  "name": "gosp-bkrs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganshina-club/gosp-bkrs.git"
+  },
+  "scripts": {
+    "lint": "eslint --fix .",
+    "test": "jest --watchAll"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Oleksandr Mostovyi",
+      "email": "om@ganshina.club",
+      "url": "https://www.ganshina.club"
+    }
+  ],
+  "engines": {
+    "node": ">=14.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ganshina-club/gosp-bkrs/issues",
+    "email": "om@ganshina.club"
+  },
+  "dependencies": {},
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "type": "module",
+  "files": [
+    "lib"
+  ]
+}
