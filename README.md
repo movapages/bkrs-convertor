@@ -3,11 +3,6 @@
 [BKRS Info](https://bkrs.info/) _dsl-to-csv file converter_.
 
 
-<h6>Installation</h6>
-
-```shell
-npm i -S gosp-bkrs
-```
 
 <h6>Usage</h6>
 
